@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/**"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceRoot}",
+                    "${workspaceRoot}/../libraries",
+                    "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores",
+                    "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries",
+                    "C:/Program Files (x86)/Arduino/hardware/tools"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "C:/Program Files (x86)/Arduino/hardware/tools/avr/bin/avr-gcc.exe",
+            "compilerArgs": [],
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
